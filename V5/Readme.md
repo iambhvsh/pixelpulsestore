@@ -1,5 +1,5 @@
 <div align="center" style="margin: 40px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Tailwind_CSS_Logo.svg" alt="Tailwind CSS Logo" height="100" width="100" />
+  <img src="https://cdn.jsdelivr.net/gh/iambhvsh/surecdn@main/images/app-store/appstorelogo.png" alt="Tailwind CSS Logo" height="100" width="100" />
   <h1 style="font-family: Arial, sans-serif; color: #38B2AC; margin-top: 20px;">PixelPulse <br/> Store - V5</h1>
   <p style="font-family: 'Open Sans', sans-serif; color: #555; font-size: 18px; max-width: 600px; margin: 0 auto;">
     Welcome to the <strong>PixelPulse Store</strong>, an innovative HTML, CSS, and JavaScript-based application marketplace. Our mission is to provide a seamless and visually captivating user experience, akin to the renowned iOS App Store.
